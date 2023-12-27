@@ -10,6 +10,7 @@
 - 💬 Ask me about **Node.js, PHP, Machine learning, Express.js, and PHP**
 
 - 📫 How to reach me **rafiulhuda27@gmail.com**
+- I am a passionate developer programmer and enjoy turning new ideas into elegant code. My journey in the world of technology has been a continuous learning process, and I have been able to overcome challenges that have pushed me to expand my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
